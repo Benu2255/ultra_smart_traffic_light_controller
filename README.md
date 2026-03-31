@@ -34,11 +34,20 @@ The lane with the highest priority is selected, and traffic lights are controlle
 
 ---
 
+<img width="1554" height="757" alt="Screenshot 2026-03-07 123129" src="https://github.com/user-attachments/assets/42d6ef70-3728-4bf4-8999-96c2c38a16d6" />
+
+---
+
 ## 🏗️ Architecture
 
 Camera Input → Processing → Density Estimation →
 Congestion Analysis → Priority Engine →
 Lane Selection → Traffic Light FSM
+
+---
+
+<img width="1534" height="
+759" alt="Screenshot 2026-03-07 122227" src="https://github.com/user-attachments/assets/97aa0099-c12a-4eef-b64f-ca25110d6464" />
 
 ---
 
@@ -70,6 +79,12 @@ Lane Selection → Traffic Light FSM
 
 ---
 
+## Code
+
+[code.txt](https://github.com/user-attachments/files/26372758/code.txt)
+
+---
+
 ## 👨‍💻 Author
 
 **Benudhar Saikia**
@@ -80,3 +95,8 @@ B.Tech (ECE) | Interested in VLSI & Semiconductor Design
 ## ⭐
 
 If you find this project useful, give it a star on GitHub!
+
+---
+
+<img width="1565" height="851" alt="Screenshot 2026-03-07 122858" src="https://github.com/user-attachments/assets/12f22fbb-f78e-48c3-a5a5-eea87cd952c2" />
+
